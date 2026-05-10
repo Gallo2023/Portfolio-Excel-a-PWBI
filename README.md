@@ -2,7 +2,7 @@
 
 ## 📊 Resumen Reporteria Excel con transicion a Power BI mas Herramientas Complementarias
 
-Un breve recorrido desde los ultimo reportes bajo Excel, pasando por los primeros dashboard en Power BI.
+Un breve recorrido desde los ultimos reportes bajo Excel, pasando por los primeros dashboards en Power BI.
 Un primer acercamiento a la plataforma Tableau.
 Implementacion de herramientas complementarias como Pyhton para ETL/EDA y Mysql para obtencion de datos.
 
