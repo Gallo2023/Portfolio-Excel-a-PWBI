@@ -1,6 +1,6 @@
 # Recorrido Portfolio Migracion Excel a Power BI  
 
-## 📊 Resumen Reporteria Excel con Evolucion a Power BI mas Herramientas Complementarias
+## 📊 Resumen Reporteria Excel con transicion a Power BI mas Herramientas Complementarias
 
 Un breve recorrido desde los ultimo reportes bajo Excel, pasando por los primeros dashboard en Power BI.
 Un primer acercamiento a la plataforma Tableau.
