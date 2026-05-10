@@ -13,6 +13,7 @@ Implementacion de herramientas complementarias como Pyhton para ETL/EDA y Mysql 
 <img src="./CapturasPortfolio/Diapositiva7.PNG" width="500"/>
 <img src="./CapturasPortfolio/Diapositiva10.PNG" width="500"/>
 <img src="./CapturasPortfolio/Diapositiva13.PNG" width="500"/>
+<img src="./CapturasPortfolio/Diapositiva14.PNG" width="500"/>
 <img src="./CapturasPortfolio/Diapositiva15.PNG" width="500"/>
 <img src="./CapturasPortfolio/Diapositiva16.PNG" width="500"/>
 
