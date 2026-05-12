@@ -28,3 +28,4 @@ Implementacion de herramientas complementarias como Pyhton para ETL/EDA y Mysql 
 
 ##### 👨‍💻 Author
 ##### Gabriel Gallardo
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/gerardo-gabriel-gallardo-12619ab5)
